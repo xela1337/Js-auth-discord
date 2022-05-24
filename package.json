@@ -1,0 +1,12 @@
+{
+  "name": "oauth2",
+  "version": "1.0.0",
+  "description": "Basic OAuth2 Example",
+  "private": true,
+  "main": "app.js",
+  "dependencies": {
+    "btoa": "*",
+    "express": "*",
+    "snekfetch": "*"
+  }
+}
